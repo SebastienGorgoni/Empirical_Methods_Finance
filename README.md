@@ -1,1 +1,1 @@
-# Empirical_Methods_Finance
+# Empirical Methods for Finance
