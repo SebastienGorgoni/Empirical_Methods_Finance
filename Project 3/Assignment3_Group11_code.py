@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 14 08:15:17 2021
-
-@author: Florian
 """
 
 import datetime as dt
