@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  9 13:59:29 2021
-
-@author: Florian
-"""
-
 import os
 os.chdir("C:/Users/Antoine/Desktop/MScF/EmpiricalMethods/Ass1")
 
