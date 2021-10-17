@@ -1,14 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  4 16:53:26 2021
-
-@author: Florian
-"""
-
 """SET WORKING DIRECTORY HERE"""
 import os
-os.chdir("/Users/Florian/UNIL/Master Finance/1ère année/2ème Semestre/Empirical Methods in Finance/Assignments/Assignment 2/Data -20210504")
+os.chdir("/Users/Florian/UNIL/Master Finance/1ère année/2ème Semestre/Empirical Methods in Finance/Assignments/Assignment 2/Data -20210504")
 
 
 # import packages
